@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 First line added in branch b1
+=======
+<<<<<<< HEAD
+dfdfdfsfsfs	
+sdfsfgsgs
+=======
+First line 
+>>>>>>> b
+>>>>>>> Stashed changes
