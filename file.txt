@@ -1,2 +1,2 @@
 First line added in branch b1
-Git Demo
+Git Demo 2
