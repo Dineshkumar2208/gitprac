@@ -1,2 +1,1 @@
-First line added in branch b1
 Line added
